@@ -19,12 +19,12 @@ Having issues at the moment figuring out how to run my server in production.
 
 2. Download entire project and extract it to a folder somewhere
 
-3. Open first terminal and navigate to client folder witihin project dir
+3. Open first terminal and navigate to client folder within project dir
 
-4. Execute 'npm start' command (do not include the ''), this will load the SPA created by react
+4. Execute 'npm start' command (do not include the '' & don't close the terminal), this will load the SPA created by react
 
-5. Open second terminal and navigate to server folder witihin project dir
+5. Open second terminal and navigate to server folder within project dir
 
 6. Execute 'npm run devStart' command (do not include the ''), this will initiate the devmon server
 
-7. Done
+7. Should be working now, duplicating the page will show simultaneous typing on both documents 
