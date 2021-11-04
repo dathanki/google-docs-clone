@@ -1,16 +1,3 @@
-# Live Deployment
-
-This project was deployed with (Netlify)[https://hungry-poincare-4d208d.netlify.app/]
-
-# Technologies used
-
-- React
-- React Router Dom
-- Quill (handy library for implementing text editing capabilities)
-- SocketIO (Real-time client-server communication)
-- Nodemon (Real-time server refresh)
-- MongoDB
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
