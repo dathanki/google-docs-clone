@@ -1,6 +1,6 @@
 # Live Deployment
 
-This project was deployed with (Netlify)[https://hungry-poincare-4d208d.netlify.app/]
+This project was deployed with [Netlify](https://hungry-poincare-4d208d.netlify.app/)
 
 # Technologies used
 
@@ -15,7 +15,7 @@ This project was deployed with (Netlify)[https://hungry-poincare-4d208d.netlify.
 Having issues at the moment figuring out how to run my server in production. 
 
 ### In order to run this project locally, please follow these steps. 
-1. Make sure (NPM)[https://www.npmjs.com], (MongoDB)[https://www.mongodb.com/try/download/community] are installed on the local machine
+1. Make sure [NPM](https://www.npmjs.com), [MongoDB](https://www.mongodb.com/try/download/community) are installed on the local machine
 2. Download entire project and extract it to a folder somewhere
 3. Open first terminal and navigate to client folder witihin project dir
   3-1. execute 'npm start' command (do not include the ''), this will load the SPA created by react
